@@ -8,7 +8,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": "^5.6 || ^7.0 || ^7.3 || ^8.0",
-        "guzzlehttp/guzzle": "^6.2",
+        "guzzlehttp/guzzle": "^7.3",
         "openlss/lib-array2xml": "dev-master"
     },
     "require-dev": {
